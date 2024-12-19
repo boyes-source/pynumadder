@@ -14,9 +14,9 @@ if __name__ == '__main__':
         tosum.append(line)
     
 for num in tosum:
-    num = float(num)
-    sum += num
-    if '' in tosum:
-        tosum.remove('')
+    try:
+        num = float(num)
+        sum += num
+    except ValueError:
+        pass
 print(sum)
-        
