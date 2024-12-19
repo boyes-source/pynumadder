@@ -6,7 +6,8 @@ Example:
 
 `user@users-pc$ ./test.py myfile.txt`
 
-assuming that `myfile.txt` contains the numbers:
+assuming that `myfile.txt` contains the numbers:  
+  
 5  
 3  
 24  
