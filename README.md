@@ -1,6 +1,6 @@
 This tool adds up numbers in a file using Python!
 
-WARNING! You must not run it like a normal Python file using the `python3` command. You have to run it using the `./test.py yourfile.txt` command. Make sure your file does NOT contain ANY letters or symbols, and if you do it correctly, the tool will add up the sum of all the lines in the files. 
+WARNING! You must not run it like a normal Python file using the `python3` command. You have to run it using the `./test.py yourfile.txt` command. And if you do it correctly, the tool will add up the sum of all the lines in the files. 
 
 Example:
 
